@@ -12,8 +12,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudhanPlayz/Discord-MusicBot.git"
-  },
+    "url": "git+https://github.com/Psycho006Develop/bleep-bloop.git" 
+  }, 
   "engines": {
     "node": "^12.x"
   },
