@@ -1,8 +1,8 @@
 server: # REST and WS server
-  port: 2333
+  port: 25642
   address: 0.0.0.0
 lavalink:
-  server:
+  server: node1.nextgenhosting.xyz
     password: "youshallnotpass"
     sources:
       youtube: true
