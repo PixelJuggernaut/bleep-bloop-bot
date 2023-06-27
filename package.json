@@ -1,7 +1,7 @@
 {
-  "name": "discord-musicbot",
-  "version": "4.1.4",
-  "description": "Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name",
+  "name": "bleep-bloop",
+  "version": "1.0.0",
+  "description": "Music bot made with JavaScript",
   "main": "index.js",
   "scripts": {
     "install-node-v14": "wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash && export NVM_DIR=\"$([ -z \"${XDG_CONFIG_HOME-}\" ] && printf %s \"${HOME}/.nvm\" || printf %s \"${XDG_CONFIG_HOME}/nvm\")\" && [ -s \"$NVM_DIR/nvm.sh\" ] && \\. \"$NVM_DIR/nvm.sh\" && nvm install 14 && nvm use 14",
