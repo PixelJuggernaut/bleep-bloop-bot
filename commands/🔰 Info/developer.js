@@ -28,7 +28,7 @@ module.exports = {
         .setColor(es.color)
         .setFooter(es.footertext + " | Sponsor: // | Code  'x10'  == -5%", es.footericon && (es.footericon.includes("http://") || es.footericon.includes("https://")) ? es.footericon : client.user.displayAvatarURL())
         .setTimestamp()
-        .setThumbnail("https://cdn.discordapp.com/avatars/442355791412854784/df7b527a701d9a1ab6d73213576fe295.webp?size=1024")
+        .setThumbnail("https://cdn.discordapp.com/attachments/1115316768064405575/1123231340549116017/bleepbloop_logo_cropped.png")
         .setTitle(client.la[ls].cmds.info.developer.title)
         .setURL("https://discord.gg/pk8Ve68UEH")
         .setDescription(client.la[ls].cmds.info.developer.description)

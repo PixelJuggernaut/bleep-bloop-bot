@@ -47,5 +47,6 @@
   "bugs": {
     "url": "https://github.com/Psycho006Develop/bleep-bloop-bot/issues"
   },
-  "homepage": "https://github.com/Psycho006Develop/bleep-bloop-bot#readme"
+  "homepage": "https://github.com/Psycho006Develop/bleep-bloop-bot#readme",
+  "devDependencies": {}
 }

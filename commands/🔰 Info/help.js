@@ -89,7 +89,7 @@ module.exports = {
       let button_back = new MessageButton().setStyle('SUCCESS').setCustomId('1').setEmoji("833802907509719130").setLabel(handlemsg(client.la[ls].cmds.info.help.buttons.back))
       let button_home = new MessageButton().setStyle('DANGER').setCustomId('2').setEmoji("🏠").setLabel(handlemsg(client.la[ls].cmds.info.help.buttons.home))
       let button_forward = new MessageButton().setStyle('SUCCESS').setCustomId('3').setEmoji('832598861813776394').setLabel(handlemsg(client.la[ls].cmds.info.help.buttons.forward))
-      let button_tutorial = new MessageButton().setStyle('LINK').setEmoji("840260133686870036").setLabel("Tutorial").setURL("https://youtu.be/E0R7d8gS908")
+      let button_tutorial = new MessageButton().setStyle('LINK').setEmoji("840260133686870036").setLabel("Tutorial").setURL("//")
       let menuOptions = [{
           label: "Overview",
           value: "Overview",
@@ -159,7 +159,7 @@ but you can also do \`${prefix}play <SONGNAME/SONGLINK>\` without setting it up!
 :file_folder: on **${client.guilds.cache.size} Guilds**
 ⌚️ **${duration(client.uptime).map(i=> `\`${i}\``).join("︲")} Uptime**
 📶 **\`${Math.floor(client.ws.ping)}ms\` Ping**
-<:MilratoDevelopment:900389724936609842>  Made by [**Milrato Development**](https://discord.gg/milrato)`)
+<:Psycho006Develop:900389724936609842>  Made by [**Psycho006Develop**](https://discord.gg/pk8Ve68UEH)`)
 
 
       //Send message with buttons
@@ -352,12 +352,3 @@ but you can also do \`${prefix}play <SONGNAME/SONGLINK>\` without setting it up!
 
   }
 }
-/**
- * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
- * @INFO
- * Work for Milrato Development | https://milrato.dev
- * @INFO
- * Please mention him / Milrato Development, when using this Code!
- * @INFO
- */

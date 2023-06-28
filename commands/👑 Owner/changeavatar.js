@@ -12,7 +12,7 @@ module.exports = {
   aliases: ["changebotavatar", "botavatar", "botprofilepicture", "botpfp"],
   cooldown: 5,
   usage: "changeavatar <Imagelink/Image>",
-  description: "Changes the Avatar of the BOT: I SUGGEST YOU TO DO IT LIKE THAT: Type the command in the Chat, attach an Image to the Command (not via link, just add it) press enter",
+  description: "Changes the Avatar of the BOT. Type the command in the Chat, attach an Image to the Command (not via link, just add it) press enter",
   run: async (client, message, args, cmduser, text, prefix, player, es, ls) => {
     if (!config.ownerIDS.some(r => r.includes(message.author.id)))
       return message.channel.send({
@@ -116,12 +116,3 @@ module.exports = {
     }
   },
 };
-/**
- * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
- * @INFO
- * Work for Milrato Development | https://milrato.dev
- * @INFO
- * Please mention him / Milrato Development, when using this Code!
- * @INFO
- */
