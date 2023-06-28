@@ -6,8 +6,9 @@
    ],
    "status": {
       "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: https://discord.gg/pk8Ve68UEH",
-      "text2": "By: ",
-      "type": "PLAYING"
+      "text2": "By: psycho006develop",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
    },
    "clientsettings": {
       "nodes": [
