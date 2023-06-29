@@ -13,9 +13,10 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "51.161.130.134",
-            "port": 10442,
-            "password": "psycho006daka"
+            "host": "lavalink.devamop.in",
+            "port": 443,
+            "password": "DevamOP",
+            "secure": "true"
          }
       ]
    },
