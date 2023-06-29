@@ -15,8 +15,7 @@
          {
             "host": "lavalink.devamop.in",
             "port": 443,
-            "password": "DevamOP",
-            "secure": "true"
+            "password": "DevamOP"
          }
       ]
    },
