@@ -13,8 +13,8 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "usa.nextgenhosting.cloud",
-            "port": 25642,
+            "host": "51.161.130.134",
+            "port": 10442,
             "password": "psycho006daka"
          }
       ]
