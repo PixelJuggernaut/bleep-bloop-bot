@@ -13,7 +13,7 @@ module.exports = {
   category: "🔰 Info",
   aliases: [""],
   usage: "uptime",
-  description: "Returns the duration on how long the Bot is online",
+  description: "Shows bot's uptime",
   type: "bot",
   run: async (client, message, args, cmduser, text, prefix, player, es, ls) => {
     let date = new Date()
