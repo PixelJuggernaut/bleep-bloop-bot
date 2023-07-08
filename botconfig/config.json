@@ -1,5 +1,5 @@
 {
-   "token": "MTA1MTQ2MDAyOTI1OTE5MDI5Mg.GEwzrp.1geDZyDOwUuKgf_PC6BuE_n13GL_D15rGIPQZs",
+   "token": "YOUR BOT TOKEN",
    "prefix": "?",
    "ownerIDS": [
       "846879863226368030"
@@ -20,7 +20,7 @@
       ]
    },
    "spotify": {
-      "clientID": "5ca819211ea44ea296c3ca68b563dcbd",
-      "clientSecret": "4bc65fed60c34ff38f1ac66b86b6a4d9"
+      "clientID": "ID HERE",
+      "clientSecret": "SECRET HERE"
    }
 }

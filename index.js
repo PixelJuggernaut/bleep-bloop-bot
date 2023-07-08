@@ -8,10 +8,7 @@
  * 4  Raise_the_Max_Listeners
  * 5  LOAD_the_BOT_Functions_and_events
  * 6  Login_to_the_Bot
- * 
- *   BOT CODED BY: TOMato6966 | https://milrato.dev
  *********************************************************/
-
 
 
 /**********************************************************
