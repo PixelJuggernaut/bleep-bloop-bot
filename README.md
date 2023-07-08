@@ -17,7 +17,7 @@
 
 ✓ Stable & Up to date with discord.js v13
 
-✓ Suport 10 music sources + Stage & Thread Channels
+✓ Support 10 music sources + Stage & Thread Channels
 
 ✓ Works on Replit.com and any vps, with public & private Lavalink Nodes
 
