@@ -1,21 +1,17 @@
-### Discord.js Lavalink Music Bot using erela.js
-
-# LAVA MUSIC 
-
-> Made with the [**Lavalink**](https://github.com/freyacodes/Lavalink) Wrapper [Erela.js](https://erelajs-docs.netlify.app/docs/gettingstarted.html)
+### Discord.js Lavalink Music Bot
 
 ## Features:
 ✓ Auto resume
 
 ✓ Super fast & High Quality thanks to LAVALINK
 
-✓ A ton of Music-based Commands
+✓ Music-based Commands
 
-✓ Example Premium System 
+✓ Premium System 
 
-✓ Everything is customicable / GUILD (`embeds`, `language` & default music values like: `volume`, `filter`, `equalizer`, `autoplay`, ...)
+✓ Everything is customisable / GUILD (`embeds`, `language` & default music values like: `volume`, `filter`, `equalizer`, `autoplay`, ...)
 
-✓ Dj- System
+✓ Dj-System
 
 ✓ 10+ Filters
 
