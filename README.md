@@ -1,35 +1,27 @@
-### Discord.js Lavalink Music Bot using erela.js
-
-# LAVA MUSIC 
-
-> Made with the [**Lavalink**](https://github.com/freyacodes/Lavalink) Wrapper [Erela.js](https://erelajs-docs.netlify.app/docs/gettingstarted.html) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.dev) if u want to support me, then please [invite](https://lava.milrato.dev) him!**
+### Discord.js Lavalink Music Bot
 
 ## Features:
 ✓ Auto resume
 
 ✓ Super fast & High Quality thanks to LAVALINK
 
-✓ A ton of Music-based Commands
+✓ Music-based Commands
 
-✓ Example Premium System 
+✓ Premium System 
 
-✓ Everything is customicable / GUILD (`embeds`, `language` & default music values like: `volume`, `filter`, `equalizer`, `autoplay`, ...)
+✓ Everything is customisable / GUILD (`embeds`, `language` & default music values like: `volume`, `filter`, `equalizer`, `autoplay`, ...)
 
-✓ Dj- System
+✓ Dj-System
 
 ✓ 10+ Filters
 
 ✓ Stable & Up to date with discord.js v13
 
-✓ Suport 10 music sources + Stage & Thread Channels
+✓ Support 10 music sources + Stage & Thread Channels
 
 ✓ Works on Replit.com and any vps, with public & private Lavalink Nodes
 
 <br/>
-
-***
-
-# 🖤 Replit.com Version | [FORK IT!](https://replit.com/@OxyTomato/Lava-Music?v=1)
 
 ***
 
@@ -43,7 +35,7 @@
 
 > **<kbd>1.</kbd>** Install [node.js v16.6+](https://nodejs.org/en) or higher
 > 
-> **<kbd>2.</kbd>** Download this repo and unzip it | or `git clone https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js`
+> **<kbd>2.</kbd>** Download this repo and unzip it | or `gh repo clone Psycho006Develop/bleep-bloop-bot`
 > 
 > **<kbd>3.</kbd>** Install all of the packages with **`npm install`** | the important packages are   **`npm install discord.js@latest erela.js`**
 > 
@@ -93,23 +85,20 @@ Well then skip step **` 5. `**
 > <kbd>2.</kbd> type: `?deployslash` or `@BOT deployslash`, for GLOBAL Slash Commands (for all Servers and all new Servers)
 > OR: Type: `?deployslash [SERVER_ID]` for GUILD SLASH COMMANDS (just for this Server)
 
-![image](https://imgur.com/MA53Oo3.png "Slash Commands do work")
 <br/>
 
 ***
 
-## [Discord Server 😎](https://discord.gg/dcdev) | [Website](https://milrato.dev)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+## [Discord Server 😎]([https://discord.gg/pk8Ve68UEH]) | [Website](https://docs.psycho006develop.vercel.app/))
+<a href="https://discord.gg/pk8Ve68UEH"></a>
 
 ***
 
-## SUPPORT ME AND MILRATO DEVELOPMENT
+## SUPPORT ME
 
-> You can always Support me by inviting one of my **own Discord Bots**
+> You can always Support me by inviting  my **own Discord Bot**
 
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.milrato.dev)
+[![Supra Bot](https://cdn.discordapp.com/avatars/915323367177982012/67c91c85c3c1e92f4c58f2ba35a65aa0.png?size=256)](https://discord.com/api/oauth2/authorize?client_id=915323367177982012&scope=bot+applications.commands&permissions=1374891928950)
 
 ***
 
@@ -117,20 +106,4 @@ Well then skip step **` 5. `**
 
 > If consider using this Bot, make sure to credit me!
 
-***
-
-## Contributing on LANGUAGE SYSTEM
-
-> <kbd>1.</kbd> Copy a .json file in `languages`
-> 
-> <kbd>2.</kbd> Replace the Text, which aren't variables
-> 
-> <kbd>3.</kbd> Create a Pull Request
-
-***
-
-## TODO:
-
-> - `50% is Language able` ... finish the rest of it!
-> 
-> - Not all emojis are yet in the emojis.json file ... Fix those!
+© 2023 Psycho006Develop All rights reserved.

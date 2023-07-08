@@ -16,7 +16,7 @@
     "ms": "^2.1.3",
     "radio-browser": "^2.1.9"
   },
-  "name": "bleep-bloop",
+  "name": "bleep-bloop-bot",
   "version": "1.0.0",
   "description": "Music bot",
   "main": "index.js",
