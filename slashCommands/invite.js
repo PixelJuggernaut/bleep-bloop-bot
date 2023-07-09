@@ -63,4 +63,4 @@ module.exports = {
       console.log(String(e.stack).grey.bgRed)
     }
   }
-}
+};
