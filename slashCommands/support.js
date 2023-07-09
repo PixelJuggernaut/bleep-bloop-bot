@@ -15,9 +15,9 @@ module.exports = {
     
     
     try {
-      let button_public_invite = new MessageButton().setStyle('LINK').setLabel('Invite Public Bot').setURL("https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot%20applications.commands")
-      let button_support_dc = new MessageButton().setStyle('LINK').setLabel('Support Server').setURL("https://discord.gg/milrato")
-      let button_invite = new MessageButton().setStyle('LINK').setLabel('Invite this Bot').setURL(`https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot%20applications.commands`)
+      let button_public_invite = new MessageButton().setStyle('LINK').setLabel('Invite Public Bot').setURL("https://discord.com/oauth2/authorize?client_id=915323367177982012&scope=bot+applications.commands&permissions=1374891928950")
+      let button_support_dc = new MessageButton().setStyle('LINK').setLabel('Support Server').setURL("https://discord.gg/pk8Ve68UEH")
+      let button_invite = new MessageButton().setStyle('LINK').setLabel('Invite this Bot').setURL(`https://discord.com/oauth2/authorize?client_id=915323367177982012&scope=bot+applications.commands&permissions=1374891928950`)
       //array of all buttons
       const allbuttons = [new MessageActionRow().addComponents([button_public_invite, button_support_dc, button_invite])]
       interaction.reply({ephemeral: true, 
@@ -25,8 +25,8 @@ module.exports = {
           .setColor(ee.color)
           .setTitle(client.la[ls].cmds.info.support.title)
           .setDescription(eval(client.la[ls]["cmds"]["info"]["support"]["variable1"]))
-          .setFooter(client.user.username  + ' | powered by milrato.dev', 'https://imgur.com/jPItIw0.gif')
-          .setURL("https://discord.com/api/oauth2/authorize?client_id=784364932149280778&permissions=8&scope=bot%20applications.commands")],
+          .setFooter(client.user.username  + ' | coded by Psycho006Develop', 'https://imgur.com/')
+          .setURL("https://discord.com/oauth2/authorize?client_id=915323367177982012&scope=bot+applications.commands&permissions=1374891928950")],
         components: allbuttons
       });
     } catch (e) {
@@ -39,13 +39,4 @@ module.exports = {
       ]});
     }
   }
-}
-/**
- * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
- * @INFO
- * Work for Milrato Development | https://milrato.dev
- * @INFO
- * Please mention him / Milrato Development, when using this Code!
- * @INFO
- */
+};
