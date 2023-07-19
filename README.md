@@ -106,4 +106,4 @@ Well then skip step **` 5. `**
 
 > If consider using this Bot, make sure to credit me!
 
-© 2023 Psycho006Develop All rights reserved.
+© 2023 Pixeljuggernaut All rights reserved.
