@@ -25,17 +25,13 @@
 
 ***
 
-# [Youtube Hosting Tutorial](https://www.youtube.com/watch?v=AnYTaFPB4f8)
-
-***
-
 <br/>
 
 ## Installation | How to use the Bot
 
 > **<kbd>1.</kbd>** Install [node.js v16.6+](https://nodejs.org/en) or higher
 > 
-> **<kbd>2.</kbd>** Download this repo and unzip it | or `gh repo clone Psycho006Develop/bleep-bloop-bot`
+> **<kbd>2.</kbd>** Download this repo and unzip it | or `gh repo clone PixelJuggernaut/bleep-bloop-bot`
 > 
 > **<kbd>3.</kbd>** Install all of the packages with **`npm install`** | the important packages are   **`npm install discord.js@latest erela.js`**
 > 
@@ -89,8 +85,7 @@ Well then skip step **` 5. `**
 
 ***
 
-## [Discord Server 😎]([https://discord.gg/pk8Ve68UEH]) | [Website](https://docs.psycho006develop.vercel.app/))
-<a href="https://discord.gg/pk8Ve68UEH"></a>
+## [My Website](https://pixeljuggernaut.vercel.app/)
 
 ***
 
